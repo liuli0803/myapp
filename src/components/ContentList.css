@@ -1,0 +1,15 @@
+.clear{
+   overflow: hidden;
+}
+.lf{
+    float: left;
+}
+.rt{
+    float:right;
+}
+.listAll{
+    padding:20px 20px 60px 20px;
+}
+.listAll p a{
+    display: inline-block;
+}

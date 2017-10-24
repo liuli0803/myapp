@@ -1,0 +1,19 @@
+.App-footer {
+  height: 60px;
+  background: #0b97c4;
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+}
+.App-footer a {
+  display: inline-block;
+  width: 33.3%;
+  height: 60px;
+  line-height: 60px;
+  text-align: center;
+  color: #fff;
+}
+.App-footer a:hover {
+  background: #2F6FAD;
+}
